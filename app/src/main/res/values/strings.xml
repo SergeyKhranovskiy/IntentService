@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentService</string>
+    <string name="button">Say something</string>
+    <string name="response">Nope</string>
+</resources>
